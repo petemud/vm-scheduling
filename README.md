@@ -28,6 +28,6 @@ During all this process we are remembering the first request aftee which the num
 ### Further improvement
 - Try other fitness functions (or switch between them during different runs)
 - Sort vms differently ([L168](source.cpp#L168))
-- Improve the complexity of best server selection algorithm (our the hypothesis is that it can be done in `log`)
+- Improve the complexity of best server selection algorithm (our hypothesis is that it can be done in `log`)
 
 [1]: https://dspace.mit.edu/handle/1721.1/57819 "Near-optimal bin packing algorithms"
